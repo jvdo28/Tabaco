@@ -1,0 +1,1 @@
+alert("Não Fume")
